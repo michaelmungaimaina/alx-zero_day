@@ -13,3 +13,7 @@ Update README.md from GitHub interface
 Get all changes of the main branch locally
 Create a new file up_to_date and in it include the git command for above task
 Add up_to_date to git and commit
+Create a branch update_script
+Update file bash/alx and bash/school
+Create an empty file bash/98
+Switch back to master
